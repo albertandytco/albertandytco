@@ -21,7 +21,7 @@
 ### Status GitHub 🔍
 
 <a href="https://github.com/albertandytco/github-readme-stats">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=albertandytco&count_public=true&show_icons=true&theme=black" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=albertandytco&count_public=true&count_private=true&show_icons=true&theme=black" />
 </a>
 
 <a href="https://github.com/albertandytco/github-readme-stats">
