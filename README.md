@@ -4,8 +4,8 @@
 ### Sobre mim 👩🏻‍💻
 
   - 🎓 Cursando primeiro período de Análise e Desenvolvimento de sistemas
-  - 📚 Participante do programa Re/Start + IA da Escola Nuvem 
-  - Estou no início da área de desenvolvimento, mas tenho muita vontade de aprender 📖
+  - 🛠️ Participante do programa Re/Start + IA da Escola Nuvem 
+  - Estou no início da área de desenvolvimento, e estou empolgado com tudo que tenho pra aprender! 📖
  
 ---
 ### Habilidades 📚
@@ -27,8 +27,8 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=albertandytco&count_public=true&show_icons=true&theme=black" />
 </a>
 
-<a href="https://github.com/albertandytco/github-readme-stats">
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertandytco&count_public=true&layout=compact&langs_count=10&theme=github" />
+<a href="https://github.com/samduartdev/github-readme-stats">
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertandytco&count_public=true&&hide=Jupyter&layout=compact&theme=black" />
 </a>
 
 ---
