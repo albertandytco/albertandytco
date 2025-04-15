@@ -4,12 +4,15 @@
 ### Sobre mim 👩🏻‍💻
 
   - 🎓 Cursando primeiro período de Análise e Desenvolvimento de sistemas
-  - 📚 Estudando lógica de programação e Java
+  - 📚 Participante do programa Re/Start + IA da Escola Nuvem 
   - Estou no início da área de desenvolvimento, mas tenho muita vontade de aprender 📖
  
 ---
 ### Habilidades 📚
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
