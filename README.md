@@ -3,7 +3,7 @@
 
 ### Sobre mim 👩🏻‍💻
 
-  - 🎓 Cursando primeiro período de Análise e Desenvolvimento de sistemas
+  - 🎓 Cursando Análise e Desenvolvimento de sistemas
   - 🛠️ Participando do programa AWS Re/Start + IA da Escola Nuvem para a certificação AWS Cloud Practitioner
   - Estou no início da área de desenvolvimento, e estou empolgado com tudo que tenho pra aprender! 📖
  
