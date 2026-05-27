@@ -23,16 +23,25 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:albertandytco@gmail.com)
 
 ---
-### Status GitHub 🔍
+<!-- Contador de Visitantes 
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <br>
+</div> -->
 
-<a href="https://github.com/albertandytco/github-readme-stats">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=albertandytco&count_public=true&show_icons=true&theme=black" />
-</a>
+<div align="center"> 
+  <a href="https://instagram.com/lari.devcoding" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:larissaamca1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-albuquerque-39133a239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-<a href="https://github.com/samduartdev/github-readme-stats">
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertandytco&count_public=true&&hide=Jupyter&layout=compact&theme=black" />
-</a>
-
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 ### Estou ouvindo agora 🎵
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21xbpkwcjbj4geuicsuynxn6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21xbpkwcjbj4geuicsuynxn6y&redirect=true)
