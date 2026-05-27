@@ -39,6 +39,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
 </picture>
 ---
-### Estou ouvindo agora 🎵
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21xbpkwcjbj4geuicsuynxn6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21xbpkwcjbj4geuicsuynxn6y&redirect=true)
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
