@@ -1,3 +1,6 @@
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=1122F7&background=ECFAFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%99%82)](https://git.io/typing-svg)
 
 
