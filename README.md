@@ -1,13 +1,14 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=1122F7&background=ECFAFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 ### Sobre mim 👩🏻‍💻
 
-  - 🎓 Cursando Análise e Desenvolvimento de sistemas
-  - Estou no início da área de desenvolvimento, e estou empolgado com tudo que tenho pra aprender! 📖
+  - SJC/SP - Sou apaixonado por tecnologia desde que me entendo por gente! Também curto jogos e sou fã de música boa. 
+  - Cursando Análise e Desenvolvimento de sistemas 🎓
+  - Atualmente estudando Python e suas tecnologias. 
+  - Meu foco é criar soluções para o dia a dia, tentando otimizar processos e encontrar formas de facilitar o uso de sistemas. 
  
 ---
 ### Habilidades 📚
@@ -29,7 +30,17 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
   <br>
 </div> -->
+--- 
 
+<table>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertandytco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+</table>
   
 </div>
 
